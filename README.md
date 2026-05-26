@@ -11,7 +11,7 @@ Funciones
 Ciclos for
 Estructuras condicionales
 Variables y constantes
-Explicación de líneas importantes
+Explicación breve
 POS_CODIGO = 0
 POS_NOMBRE = 1
 
